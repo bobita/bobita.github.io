@@ -28,7 +28,7 @@ blockquote {
   font-family: 'Abril Fatface';
   font-size: 60px;
   background: #222;
-  color: white;
+  color: blue;
   max-height: 500px;
   width: 940px;
   padding: 80px 60px;
@@ -45,7 +45,7 @@ blockquote:before {
   transform: rotate(0.5turn);
   font-family: 'Abril Fatface';  
   font-size: 180px;
-  color: white;
+  color: blue;
   pedding: 0;
  }
 
